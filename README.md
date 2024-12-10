@@ -1,6 +1,6 @@
 ## 🏠 Bienvenid@s, 
 
-Hi there! This is **Aranxa**, a mexican **communicologist**, whith a special interest and experience in **research** and **quantitative and qualitative methods**. Currently I'm pursuing a **Master's in Data Science for Public Policy** at the **[Hertie School of Governance]**([https://www.linkedin.com/in/aranxa-m%C3%A1rquez-ampudia-288b03b0/](https://hertieschool-f4e6.kxcdn.com/en/mds))*. 
+Hi there! This is **Aranxa**, a mexican **communicologist**, whith a special interest and experience in **research** and **quantitative and qualitative methods**. Currently I'm pursuing a **Master's in Data Science for Public Policy** at the **Hertie School of Governance**([https://www.linkedin.com/in/aranxa-m%C3%A1rquez-ampudia-288b03b0/](https://hertieschool-f4e6.kxcdn.com/en/mds))*. 
 
 ### About Me
 - 🔍 **Focus**: I'm fascinated by how data can drive impactful decision-making, particularly in public policy for digital and media literacy.
