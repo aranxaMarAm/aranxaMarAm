@@ -1,6 +1,6 @@
 ## Hello there Github friends, 
 
-This is Aranxa, a Mexican communication specialist, with experience in strategic political communication, quantitative and qualitative methods research and a growing interes in the intersection of LLMs, NLP, media and democracy to develop educational misinformation tools. Currently, I'm pursuing a Master's in Data Science for Public Policy at the [**Hertie School of Governance**](https://hertieschool-f4e6.kxcdn.com/en/mds).
+This is Aranxa, a Mexican communication specialist with experience in strategic political communication, quantitative and qualitative methods research and a growing interes in the intersection of LLMs, NLP, media and democracy to develop educational misinformation tools. Currently, I'm pursuing a Master's in Data Science for Public Policy at the [**Hertie School of Governance**](https://hertieschool-f4e6.kxcdn.com/en/mds).
 
 ### About Me
 - 🔍 **Focus**: I'm fascinated by how data can drive impactful decision-making, particularly in public policy for digital and media literacy.
