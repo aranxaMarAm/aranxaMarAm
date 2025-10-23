@@ -6,7 +6,7 @@ This is Aranxa, a Mexican communication specialist with experience in strategic 
 
 ### About Me
 - My main motivation is to find creative ways for data to have an impact on decision-making, particularly in public policy.
-- Currently I've been learning more on advanced techniques in deep learning, machine learning, natural language processing, data visualization, and econometrics.
+- Currently I'm currently looking for a place to work where I can start applying the learned techniques in deep learning, machine learning, natural language processing, data visualization, and econometrics.
 - I'm expanding my knowledge in geoeconomics and high-tech competition ethical AI, open data governance, policy evaluation frameworks and misinformation.
 - I'm always excited to collaborate on projects at the intersection of **data science**, **public policy**, and **social impact**.
 
